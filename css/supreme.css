@@ -206,6 +206,7 @@ blockquote{
 .w1dget{
 	  border: 2px solid #929396;
 	  border-radius: 1em;
+	  margin: 4%;
 }
 .w1dget-head{
 	padding-bottom: 10px
@@ -233,9 +234,23 @@ blockquote{
 .no-marpad{
 	margin: 1px;
 	padding: 1px;
-
+}
+.no-marpad-1{
+	margin: 3px;
+	padding: 3px;
+}
+.no-marpad-2{
+	min-height: 45px;
 }
 
+.no-marpad-3{
+	height: 150px;
+	padding: 5px;
+}
+h5{
+	text-align: center;
+	vertical-align: middle;
+}
 /*progressbar*/
 
 .tooltip{ 
