@@ -227,6 +227,11 @@ blockquote{
 
 }
 
+.content-buttons {
+  text-align: center;
+  margin-top: 10px;
+}
+
 .w-title{
 	font-size: 20px
 }
